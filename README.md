@@ -24,3 +24,7 @@ The data is then written to a CSV file which is easy for Excel to import.
 Shown below is an example csv file imported into Excel:
 
 ![Parsed data written to a csv file](media/Excel.png)
+
+Some plots made from the CSV data:
+
+![Plots of parsed data showing earthquake motion at Ridgecrest vs San Diego.](media/RidgecrestEarthquake.png)
