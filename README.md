@@ -22,4 +22,5 @@ postive and negative data samples while maintaining the intergrity of the sign.
 The data is then written to a CSV file which is easy for Excel to import.
 
 Shown below is an example csv file imported into Excel:
+
 ![Parsed data written to a csv file](media/Excel.png)
