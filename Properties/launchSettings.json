@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "StrongMotionDataV2": {
-      "commandName": "Project",
-      "commandLineArgs": "C:\\EarthquakeData\\CICCC.V2"
-    }
-  }
-}
